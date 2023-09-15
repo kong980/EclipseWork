@@ -1,0 +1,7 @@
+package persistance;
+
+import javax.servlet.http.HttpServlet;
+
+public class ServletCookie extends HttpServlet{
+
+}
